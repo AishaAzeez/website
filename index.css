@@ -2,10 +2,12 @@ body{
   background-color:rgba(211, 211, 211, 0.34);
 }
 
-.i1{
-  height: 800px;
-  filter: brightness(50%);
-}
+ #i1,#i2,#id5,#i3,.row{
+ 
+  max-width:100%;
+  height: auto;
+  /* filter: brightness(50%); */
+} 
 
 .b2{
   background-color: #5e068a;
