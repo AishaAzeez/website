@@ -1,3 +1,7 @@
+body{
+  background-color:rgba(211, 211, 211, 0.34);
+}
+
 .i1{
   height: 800px;
   filter: brightness(50%);
@@ -75,5 +79,84 @@
   padding: 10px 30px;
 }
 #end{
- margin-left: 260px;
+ margin-left:300px;
+}
+.b0{
+  background-color: #390653;
+  height: 55px;
+  width: 150px;
+  border-radius: 80px;
+  color: white;
+  margin-top: 30px;
+  font-size: 15px;
+ 
+}
+#d1{
+  color: #5e068a;
+}
+#d3{
+  color: #c5abd2;
+}
+#d2{
+  color: black;
+}
+#data{
+  height: 100%;
+  width: 100%;
+}
+#row{
+  height: 185px;
+}
+.iii{
+  height:150px;
+  width: 100%;
+}
+.m1{
+  background-color: #390653;
+  height: 34px;
+  width: 130px;
+  color: white;
+  margin-top: 6px;
+  font-size: 15px;
+}
+.n1{
+  color: #5e068a;
+}
+#span{
+  color: #c5abd2;
+  text-align: center;
+  margin-top: 10px;
+}
+#our{
+  color: #390653;
+  text-align: center;
+  margin-top: 10px;
+}
+.last{
+  text-align: center;
+}
+ .explore{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #5e068a00;
+  color:#5e068a;
+  text-decoration: none;
+  font-size: 14px;
+  padding:5px 20px;
+  border:2px solid #5e068a;
+  border-radius: 45px;
+  transition: background-color 0.3s ease;
+}
+
+.explore:hover {
+  background-color:#5e068a;
+  color: white;
+} 
+.overall{
+  background-color: white;
+  border: 8px white solid;
+}
+.overall:hover{
+  box-shadow: 0 4px 8px 0 rgba(17, 17, 17, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transform: scale(1.02);
 }
