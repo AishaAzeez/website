@@ -167,3 +167,38 @@ body{
   box-shadow: 0 4px 8px 0 rgba(17, 17, 17, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   transform: scale(1.02);
 }
+.vertical line{
+  width: 1px;
+}
+.ul1{
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+.nav-item{
+  text-align: end;
+}
+.row5{
+  background-color: #170421;
+}
+.sticky-icons{
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+}
+#test{
+  font-size: 25px;
+  font-weight: 600;
+  color: #1e032c;
+}
+.name{
+  color: #5e068a;
+    font-weight: 500;
+}
+.job{
+  color: rgba(128, 128, 128, 0.708);
+  font-weight: 500;
+}
+.para{
+  font-weight: 500;
+}
